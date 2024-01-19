@@ -1,4 +1,5 @@
 # 700741122-ASSIGNMENT2-SAI-VARUN-THABETI
+Link for the Recording : https://drive.google.com/file/d/1vASSg4peSz92HH8IXG-AB-wG3CUJ5hD0/view?usp=drive_link
 1. Write a program that takes two strings from the user: first_name, last_name. Pass these variables to
 fullname function that should return the (full name).
 o For example:
