@@ -9,6 +9,8 @@ Str = “Good evening”
 Output: Go vnn
 Note: You need to create a function named “string_alternative” for this program and call it from
 main function.
+
+
  It is a Python program that takes user input for first name and last name, then uses a function to generate the full name and finally applies the string_alternative function to get every other character in the full name.
 This program defines two functions (fullname and string_alternative) and a main function. The main function takes user input for first and last names, generates the full name using the fullname function, and then prints the result of applying string_alternative to the full name.
 
